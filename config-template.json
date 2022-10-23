@@ -1,5 +1,6 @@
 {
-	"clientId": "123456789012345678",
-	"guildId": "12341234123412341234",
-	"token": "your-token-goes-here"
+  "clientId": "123456789012345678",
+  "guildId": "12341234123412341234",
+  "token": "your-token-goes-here",
+  "testMode": true
 }
