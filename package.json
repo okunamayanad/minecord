@@ -1,0 +1,24 @@
+{
+  "name": "minecord",
+  "version": "0.0.1",
+  "description": "A Discord bot that's all about Minecraft",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okunamayanad/minecord.git"
+  },
+  "keywords": [
+    "Discord",
+    "Minecraft",
+    "bot"
+  ],
+  "author": "okunamayanad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okunamayanad/minecord/issues"
+  },
+  "homepage": "https://github.com/okunamayanad/minecord#readme"
+}
